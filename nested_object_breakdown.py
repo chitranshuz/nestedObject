@@ -34,6 +34,5 @@ print("enter key")
 key= input()
 print("object=", object)
 print("key=", key)
-
 value = getNestedValue(object, key)
 print(value)
